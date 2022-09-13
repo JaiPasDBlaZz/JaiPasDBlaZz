@@ -1,20 +1,25 @@
-<h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">, I'm Jean Ducellier</h1>
+<h3 align="center">A passionate junior Developer</h3>
+
+<p align="center"> <a href="https://twitter.com/mandaloozz" target="blank"><img src="https://img.shields.io/twitter/follow/mandaloozz?logo=twitter&style=for-the-badge" alt="mandaloozz" /></a> </p>
+
+- 🔭 I’m currently working on [Clavus, Tzar, Devana.ia](https://www.scriptor-artis.com/) since 2 years
+
+- 🌱 I’m currently learning **Game Dev with Blender, Unity, Unreal**
+
+- 💬 Ask me about **React, Material-UI, Github, Next, Apollo/GraphQL, Typescript, Prisma**
+
+## Connect with me:
+<p align="center">
+<a href="https://twitter.com/mandaloozz" target="blank"><img align="center" src="https://raw.githubusercontent.com/codemaker2015/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mandaloozz" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jeanducellier" target="blank"><img align="center" src="https://raw.githubusercontent.com/codemaker2015/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jeanducellier" height="30" width="40" /></a>
+<a href="https://instagram.com/mandaloozz" target="blank"><img align="center" src="https://raw.githubusercontent.com/codemaker2015/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mandaloozz" height="30" width="40" /></a>
+</p>
 
 
-# About Me :
+ ## 🛠 &nbsp;Languages and Tools :
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-
-- 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-- 🌱 Exploring Technical Content Writing.
-- ⚡ In my free time I solve problems on GeeksforGeeks and read tech articles.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-jeanducellier-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jeanducellier)
-
----
-
-## 🛠 &nbsp;Languages and Tools :
-
-<p>
+<p align="center">
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -22,14 +27,14 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="NextJS" alt="NextJS" width="40" height="40">&nbsp;
 </p>
 
-<p>
+ <p align="center">
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="Typescript" width="40" height="40">
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg" title="GraphQL" alt="GraphQL" width="40" height="40">
 <img src="/logo/apollologo.svg" title="Apollo" alt="Apollo" width="40" height="40"/>&nbsp;
 
 </p>
-<p>
+<p align="center">
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain-wordmark.svg" title="NestJS" alt="NestJS" width="40" height="40"/>&nbsp;
@@ -37,13 +42,13 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <img src="/logo/prisma-2.svg" title="Prisma" alt="Prisma" width="40" height="40"/>&nbsp;
  </p>
 
-<p>
+<p align="center"> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="40" height="40"/>&nbsp;
 </p>
 
-<p>
+<p align="center">
 <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original-wordmark.svg" title="Blender" alt="Blender" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original-wordmark.svg" title="Unity" alt="Unity" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original-wordmark.svg" title="Unreal Engine" alt="Unreal Engine" width="40" height="40"/>&nbsp;

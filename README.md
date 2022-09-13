@@ -1,5 +1,5 @@
 <video auto-play="true" muted="muted" plays-inline="true">
-  <source src="https://www.youtube.com/watch?v=-yFeZekJxZ8" type="video/mp4">
+  <source src="/video/smallvid.mp4" type="video/mp4">
 </video>
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">, I'm Jean Ducellier</h1>
 <h3 align="center">A passionate junior Developer</h3>

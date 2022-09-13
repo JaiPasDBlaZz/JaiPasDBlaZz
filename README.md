@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">, I'm Jean Ducellier</h1>
 <h3 align="center">A passionate junior Developer</h3>
 
-<p align="center"> <a href="https://twitter.com/mandaloozz" target="blank"><img src="https://img.shields.io/twitter/follow/mandaloozz?logo=twitter&style=for-the-badge" alt="mandaloozz" /></a> </p>
+<!-- <p align="center"> <a href="https://twitter.com/mandaloozz" target="blank"><img src="https://img.shields.io/twitter/follow/mandaloozz?logo=twitter&style=for-the-badge" alt="mandaloozz" /></a> </p> -->
 
 - 🔭 I’m currently working on [Clavus, Tzar, Devana.ia](https://www.scriptor-artis.com/) since 2 years
 

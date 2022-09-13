@@ -9,14 +9,6 @@
 
 - 💬 Ask me about **React, Material-UI, Github, Next, Apollo/GraphQL, Typescript, Prisma**
 
-## Connect with me:
-<p align="center">
-<a href="https://twitter.com/mandaloozz" target="blank"><img align="center" src="https://raw.githubusercontent.com/codemaker2015/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mandaloozz" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jeanducellier" target="blank"><img align="center" src="https://raw.githubusercontent.com/codemaker2015/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jeanducellier" height="30" width="40" /></a>
-<a href="https://instagram.com/mandaloozz" target="blank"><img align="center" src="https://raw.githubusercontent.com/codemaker2015/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mandaloozz" height="30" width="40" /></a>
-</p>
-
-
  ## 🛠 &nbsp;Languages and Tools :
 
 <p align="center">
@@ -43,19 +35,23 @@
  </p>
 
 <p align="center"> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="60" height="60"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="60" height="60"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="60" height="60"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" height="60"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" height="60"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" alt="Jest" height="60"/>&nbsp;
 </p>
 
 <p align="center">
-<img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original-wordmark.svg" title="Blender" alt="Blender" width="60" height="60"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original-wordmark.svg" title="Unity" alt="Unity" width="60" height="60"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original-wordmark.svg" title="Unreal Engine" alt="Unreal Engine" width="60" height="60"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" title="C++" alt="C++" width="60" height="60"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" title="C#" alt="C#" width="60" height="60"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original-wordmark.svg" title="Blender" alt="Blender" height="60"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original-wordmark.svg" title="Unity" alt="Unity" height="60"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original-wordmark.svg" title="Unreal Engine" alt="Unreal Engine" height="60"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" title="C++" alt="C++" height="60"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" title="C#" alt="C#" height="60"/>&nbsp;
 </p>
 
+## Connect with me:
 <p align="center">
-<a href="https://www.linkedin.com/in/jeanducellier"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+<a href="https://twitter.com/mandaloozz" target="blank"><img align="center" src="https://raw.githubusercontent.com/codemaker2015/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mandaloozz" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jeanducellier" target="blank"><img align="center" src="https://raw.githubusercontent.com/codemaker2015/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jeanducellier" height="30" width="40" /></a>
+<a href="https://instagram.com/mandaloozz" target="blank"><img align="center" src="https://raw.githubusercontent.com/codemaker2015/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mandaloozz" height="30" width="40" /></a>
 </p>
+

@@ -1,8 +1,7 @@
-<video auto-play="true" muted="muted" plays-inline="true">
-  <source src="/video/smallvid.mp4" type="video/mp4">
-</video>
+![Banner]("/images/banner.png")
+[]: # Title: README
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">, I'm Jean Ducellier</h1>
-<h3 align="center">A passionate junior Developer</h3>
+<h3 align="center">A passionate Developer</h3>
 
 <!-- <p align="center"> <a href="https://twitter.com/mandaloozz" target="blank"><img src="https://img.shields.io/twitter/follow/mandaloozz?logo=twitter&style=for-the-badge" alt="mandaloozz" /></a> </p> -->
 
@@ -26,7 +25,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="Typescript"  height="60">
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript"  height="60"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg" title="GraphQL" alt="GraphQL"  height="60">
-<img src="/logo/apollologo.svg" title="Apollo" alt="Apollo"  height="60"/>&nbsp;
+<img src="/img/logo/apollologo.svg" title="Apollo" alt="Apollo"  height="60"/>&nbsp;
 
 </p>
 <p align="center">
@@ -34,7 +33,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL"  height="60"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain-wordmark.svg" title="NestJS" alt="NestJS"  height="60"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="ExpressJS" alt="ExpressJS"  height="60"/>&nbsp;
-<img src="/logo/prisma-2.svg" title="Prisma" alt="Prisma"  height="60"/>&nbsp;
+<img src="/img/logo/prisma-2.svg" title="Prisma" alt="Prisma"  height="60"/>&nbsp;
  </p>
 
 <p align="center"> 

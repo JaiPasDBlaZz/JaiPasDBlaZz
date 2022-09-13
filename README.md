@@ -28,7 +28,7 @@ PS : Totaly close to new opportunity !
 
 
 ### Quick resume 👨‍💻
-- 🔭 I’m currently working on [Clavus](https://clavus.io/), [Tzar](https://www.tzar.fr/), [Devana.ia](https://www.devana.ai/) since 2 years at [Scriptor-Artis](https://www.scriptor-artis.com/) 
+- 🔭 I’m currently working on [Clavus](https://clavus.io/), [Tzar](https://www.tzar.fr/), [Devana.ia](https://www.devana.ai/) since 2 years at [Scriptor-Artis](https://www.scriptor-artis.com/) and it is awesome !
 
 - 🌱 I’m currently learning **Game Dev with Blender, Unity, Unreal**
 

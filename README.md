@@ -3,7 +3,7 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">, I'm Jean Ducellier</h1>
 <h3 align="center">A passionate french Developer 🐓🥖🍷 </h3>
 
-<!-- <p align="center"> <a href="https://twitter.com/BaldurZz_" target="blank"><img src="https://img.shields.io/twitter/follow/mandaloozz?logo=twitter&style=for-the-badge" alt="BaldurZz_" /></a> </p> -->
+<!-- <p align="center"> <a href="https://twitter.com/BaldurZz_" target="blank"><img src="https://img.shields.io/twitter/follow/BaldurZz_?logo=twitter&style=for-the-badge" alt="BaldurZz_" /></a> </p> -->
 
 ## About Me
 I starting my career as a web developer in 2019.   

@@ -3,7 +3,7 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">, I'm Jean Ducellier</h1>
 <h3 align="center">A passionate french Developer 🐓🥖🍷 </h3>
 
-<!-- <p align="center"> <a href="https://twitter.com/mandaloozz" target="blank"><img src="https://img.shields.io/twitter/follow/mandaloozz?logo=twitter&style=for-the-badge" alt="mandaloozz" /></a> </p> -->
+<!-- <p align="center"> <a href="https://twitter.com/BaldurZz_" target="blank"><img src="https://img.shields.io/twitter/follow/mandaloozz?logo=twitter&style=for-the-badge" alt="BaldurZz_" /></a> </p> -->
 
 ## About Me
 I starting my career as a web developer in 2019.   
@@ -76,8 +76,8 @@ PS : Totaly close to new opportunity !
 
 ## Connect with me:
 <p align="center">
-<a href="https://twitter.com/mandaloozz" target="blank"><img align="center" src="https://raw.githubusercontent.com/codemaker2015/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mandaloozz" height="30" width="40" /></a>
+<a href="https://twitter.com/BaldurZz_" target="blank"><img align="center" src="https://raw.githubusercontent.com/codemaker2015/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="BaldurZz_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jeanducellier" target="blank"><img align="center" src="https://raw.githubusercontent.com/codemaker2015/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jeanducellier" height="30" width="40" /></a>
-<a href="https://instagram.com/mandaloozz" target="blank"><img align="center" src="https://raw.githubusercontent.com/codemaker2015/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mandaloozz" height="30" width="40" /></a>
+<a href="https://www.instagram.com/baldurzz_/?hl=fr" target="blank"><img align="center" src="https://raw.githubusercontent.com/codemaker2015/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="baldurzz_" height="30" width="40" /></a>
 </p>
 

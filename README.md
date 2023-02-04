@@ -19,7 +19,9 @@ I starting my career as a web developer in 2019.
 🔱🔱 Now I'm a full stack developer, and I'm realy happy with Scriptor-Artis! We work together on very cool projects. Just go check it out here : https://scriptor-artis.fr/ ! 
   
 As a side project i'm working and learning game dev to realize my dream.... 🎮🎮🎮 
-Release my first Video Game and learn lot of things in the process. Such as 3D modeling with blender, 3D game engine such as Unity or Unreal Engine. At this point i didn't know wich one to choose. So i'm learning both.  
+Release my first Video Game and learn lot of things in the process. Such as 3D modeling with blender, 3D game engine such as Unity or Unreal Engine. At this point i didn't know wich one to choose. So i'm learning both.
+
+If you stay curious at this point about what i've done, I invite you to check my instagramm [here](https://www.instagram.com/baldurzz_/?hl=fr)
 
 🦄🌈 My dream is to create game and share free content to give the power to everyone to create by their own ! 
 

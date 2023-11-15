@@ -21,7 +21,7 @@ I starting my career as a web developer in 2019.
 As a side project i'm working and learning game dev to realize my dream.... 🎮🎮🎮 
 Release my first Video Game and learn lot of things in the process. Such as 3D modeling with blender, 3D game engine such as Unity or Unreal Engine. At this point i didn't know wich one to choose. So i'm learning both.
 
-If you stay curious at this point about what i've done with Blender, I invite you to check [my Instagram here](https://www.instagram.com/baldurzz_/?hl=fr)
+If you stay curious at this point about what i've done with Blender, I invite you to check [my Instagram here](https://www.instagram.com/jaipasd_blazz/?hl=fr)
 
 🦄🌈 My dream is to create game and share free content to give the power to everyone to create by their own ! 
 

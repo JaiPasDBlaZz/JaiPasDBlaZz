@@ -35,7 +35,7 @@ PS : Totaly close to new opportunity !
 - 🌱 I’m currently learning **Game Dev with Blender, Unity, Unreal**
 
 - 💬 Ask me about **React, Material-UI, Github, Next, Apollo/GraphQL, Typescript, Prisma** or if you are a young developer or in search of what a developer is ... I will be happy to answer you ! If you want to contact me click on the link below  or via linkedIn for professional purpose ! 
-<p align="center"> <a href="https://twitter.com/BaldurZz_" target="blank"><img src="https://img.shields.io/twitter/follow/BaldurZz_?logo=twitter&style=for-the-badge" alt="BaldurZz_" /></a> </p>
+<p align="center"> <a href="https://twitter.com/JaiPasD_BlaZz" target="blank"><img src="https://img.shields.io/twitter/follow/JaiPasD_BlaZz?logo=twitter&style=for-the-badge" alt="JaiPasD_BlaZz" /></a> </p>
 
  ## 🛠 &nbsp;Languages and Tools :
 

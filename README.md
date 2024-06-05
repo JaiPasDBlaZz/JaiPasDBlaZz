@@ -79,7 +79,6 @@ PS : Totaly close to new opportunity !
 ## Connect with me:
 <p align="center">
 <a href="https://twitter.com/JaiPasD_BlaZz" target="blank"><img align="center" src="https://raw.githubusercontent.com/codemaker2015/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="BaldurZz_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jeanducellier" target="blank"><img align="center" src="https://raw.githubusercontent.com/codemaker2015/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jeanducellier" height="30" width="40" /></a>
 <a href="https://www.instagram.com/jaipasd_blazz/?hl=fr" target="blank"><img align="center" src="https://raw.githubusercontent.com/codemaker2015/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="baldurzz_" height="30" width="40" /></a>
 </p>
 

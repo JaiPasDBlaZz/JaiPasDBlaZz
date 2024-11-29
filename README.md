@@ -3,8 +3,6 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">, I'm Jean Ducellier</h1>
 <h3 align="center">A passionate french Developer 🐓🥖🍷 </h3>
 
-<!-- <p align="center"> <a href="https://twitter.com/BaldurZz_" target="blank"><img src="https://img.shields.io/twitter/follow/BaldurZz_?logo=twitter&style=for-the-badge" alt="BaldurZz_" /></a> </p> -->
-
 ## About Me
 I starting my career as a web developer in 2019.   
 🎒 My educational background is a bit of a mess... 
@@ -21,21 +19,15 @@ I starting my career as a web developer in 2019.
 As a side project i'm working and learning game dev to realize my dream.... 🎮🎮🎮 
 Release my first Video Game and learn lot of things in the process. Such as 3D modeling with blender, 3D game engine such as Unity or Unreal Engine. At this point i didn't know wich one to choose. So i'm learning both.
 
-If you stay curious at this point about what i've done with Blender, I invite you to check [my Instagram here](https://www.instagram.com/jaipasd_blazz/?hl=fr)
-
 🦄🌈 My dream is to create game and share free content to give the power to everyone to create by their own ! 
-
-PS : Totaly close to new opportunity !
-
 
 
 ### Quick resume 👨‍💻
-- 🔭 I’m currently working on [Clavus](https://clavus.io/), [Tzar](https://www.tzar.fr/), [Devana.ia](https://www.devana.ai/) since 2 years at [Scriptor-Artis](https://www.scriptor-artis.com/) and it is awesome !
+- 🔭 I’m currently working on [Clavus](https://clavus.io/), [Tzar](https://www.tzar.fr/), [Devana.ia](https://www.devana.ai/) since 2020 at [Scriptor-Artis](https://www.scriptor-artis.com/) and it is awesome !
 
 - 🌱 I’m currently learning **Game Dev with Blender, Unity, Unreal**
 
 - 💬 Ask me about **React, Material-UI, Github, Next, Apollo/GraphQL, Typescript, Prisma** or if you are a young developer or in search of what a developer is ... I will be happy to answer you ! If you want to contact me click on the link below  or via linkedIn for professional purpose ! 
-<p align="center"> <a href="https://twitter.com/JaiPasD_BlaZz" target="blank"><img src="https://img.shields.io/twitter/follow/JaiPasD_BlaZz?logo=twitter&style=for-the-badge" alt="JaiPasD_BlaZz" /></a> </p>
 
  ## 🛠 &nbsp;Languages and Tools :
 
@@ -74,11 +66,5 @@ PS : Totaly close to new opportunity !
 <img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original-wordmark.svg" title="Unreal Engine" alt="Unreal Engine" height="60"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" title="C++" alt="C++" height="60"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" title="C#" alt="C#" height="60"/>&nbsp;
-</p>
-
-## Connect with me:
-<p align="center">
-<a href="https://twitter.com/JaiPasD_BlaZz" target="blank"><img align="center" src="https://raw.githubusercontent.com/codemaker2015/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="BaldurZz_" height="30" width="40" /></a>
-<a href="https://www.instagram.com/jaipasd_blazz/?hl=fr" target="blank"><img align="center" src="https://raw.githubusercontent.com/codemaker2015/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="baldurzz_" height="30" width="40" /></a>
 </p>
 
